@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshith Pottigari</h1>
-<p align="center">A passionate Software Developer, the creator behind <b>VITALITY AI</b>, your go-to Figma plugin for turning ideas into stunning designs. With a passion for design and a commitment to simplifying the creative process, I'm dedicated to empowering you to bring your imagination to life effortlessly. As a solo developer, my mission is to provide you with the tools you need to make your creative vision a reality, no matter your level of design expertise. Join me in this exciting design journey, and let's shape the future of creativity together.</p>
+<p align="center">A passionate Software Development Engineer, the creator behind <b>[VITALITY AI](https://www.figma.com/community/plugin/1442948951092803638/vitality-ai)</b>, and <b>[Easy Globe.](https://www.figma.com/community/plugin/1393501538066213707/easy-globe)</b>, your go-to Figma plugin for turning ideas into stunning designs. With a passion for design and a commitment to simplifying the creative process, I'm dedicated to empowering you to bring your imagination to life effortlessly. As a solo developer, my mission is to provide you with the tools you need to make your creative vision a reality, no matter your level of design expertise. Join me in this exciting design journey, and let's shape the future of creativity together.</p>
 
 ---
 
